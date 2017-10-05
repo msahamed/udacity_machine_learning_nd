@@ -1,1 +1,9 @@
-zip_files
+zip_files/
+__pycache__
+*.md
+dog-project/saved_models/
+dog-project/requirements/
+dog-project/haarcascades/
+*.csv
+smartcab/logs/
+smartcab/images/
